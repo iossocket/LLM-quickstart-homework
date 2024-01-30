@@ -5,4 +5,3 @@ function ConnectButton(){
 setInterval(ConnectButton,60000);
 
 clearInterval(intervalId) # intervalId换成具体的数字
-82672
